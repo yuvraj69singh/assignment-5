@@ -1,5 +1,5 @@
-# NAME: Kartik
-# SID: 21102086
+# NAME: Yuvraj Singh
+# SID: 21102070
 # BRANCH : CIVIL
 import math
 #question-1
